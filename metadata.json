@@ -1,0 +1,8 @@
+{
+  "name": "Remix GBVN ERP",
+  "description": "Complete School ERP for Gayatri Bal Vidhya Niketan, Shahnagar, District Panna (M.P.)",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
